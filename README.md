@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raihan</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- My Personal website [https://raihanromi.github.io/Portfolio/](https://raihanromi.github.io/Portfolio/)
+- My Personal website [https://raihanromi.github.io/portfolio_react/](https://raihanromi.github.io/portfolio_react/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
