@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Raihan</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+Welcome to my GitHub profile! I'm a passionate developer with MERN stack, Python, and PHP/Laravel expertise.
 
-- My Personal website [https://raihanromi.github.io/portfolio_react/](https://raihanromi.github.io/portfolio_react/)
+### I’m currently working on
+- Building web applications using Laravel and MERN
+- Exploring advanced PHP concepts and Laravel framework
+
+### I’m looking to collaborate on
+- Open source projects 
+- Innovative projects that solve real-world problems
+
+### My Personal website [https://raihanromi.github.io/portfolio_react/](https://raihanromi.github.io/portfolio_react/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
