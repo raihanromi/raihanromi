@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm a passionate developer with MERN stack, Python, and PHP/Laravel expertise.
 
 ### I’m currently working on
-- Building web applications using Laravel and MERN
+- Building web applications using FastApi and AI/ML model
 - Exploring advanced PHP concepts and Laravel framework
 
 ### I’m looking to collaborate on
