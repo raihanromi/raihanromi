@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Raihan</h1>
-Welcome to my GitHub profile! I'm a passionate developer with MERN stack, Python, and PHP/Laravel expertise.
 
 ### I’m currently working on
-- Building web applications using FastApi and AI/ML model
-- Exploring advanced PHP concepts and Laravel framework
+- Building web applications using FastApi,Django and AI/ML model
+- Exploring AI/ML and Django framework
 
 ### I’m looking to collaborate on
 - Open source projects 
 - Innovative projects that solve real-world problems
-
-### My Personal website [https://raihanromi.github.io/portfolio_react/](https://raihanromi.github.io/portfolio_react/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
